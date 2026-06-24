@@ -30,7 +30,7 @@ parent_directory/
 │
 ├── MRI_data/        (dataset for corresponding rat, i.e; W05_data)
 ├── hippylib/        (required library)
-└── RD+Hyper/
+└── BayesianInference/
     ├── Rat-3_hyper.py
     ├── mech_hyper.py
     ├── td_mechHyp.py
